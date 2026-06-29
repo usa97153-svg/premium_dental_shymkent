@@ -74,7 +74,7 @@ export default function Hero() {
             </motion.div>
 
             <motion.div
-              initial={{ opacity: 0, y: 20 }}
+              initial={{ opacity: 0, y: 20 }}>
 
             {/* Quick contact */}
             <motion.div
